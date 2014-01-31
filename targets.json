@@ -1,7 +1,8 @@
 {
   "file-version" : 1,
   "version" : "v2.2.29",
-  "url_32" : "ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.2.29+-ia32-linux.tar.gz",
-  "url_64" : "ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.2.29+-x64-linux.tar.gz"
+  "linux_32" : "ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.2.29+-ia32-linux.tar.gz",
+  "linux_64" : "ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.2.29+-x64-linux.tar.gz",
+  "macosx"   : "ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.2.29+-universal-macosx.tar.gz"
 }
 
